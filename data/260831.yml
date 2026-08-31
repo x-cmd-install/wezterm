@@ -1,0 +1,64 @@
+about:
+  description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  license: NOASSERTION
+  homepage: https://wezterm.org/
+  head: 08e5e0a
+  archived: false
+  latestVersion: 20240203-110809-5046fc22
+  collectedAt: 2026-08-31T05:55:31Z
+timeline:
+  created: 2018-02-07
+  lastCommit: 2026-08-29
+  lastRelease: 2024-02-03
+popularity:
+  star: 28649
+  watcher: 114
+  fork: 1698
+  release: 64
+  contributor: 424
+  pullRequest: 1218
+  issue: 4443
+language:
+  Rust: 15543474
+  Python: 79758
+  Shell: 66352
+  Nix: 15363
+  Inno Setup: 8030
+  GLSL: 5446
+  WGSL: 3641
+  Ruby: 1578
+  Makefile: 617
+totalLine: 15724259
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
