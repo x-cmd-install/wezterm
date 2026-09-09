@@ -5,9 +5,9 @@ A GPU-accelerated cross-platform terminal emulator and multiplexer written by @w
 - **Upstream**: <https://github.com/wez/wezterm>
 - **Homepage**: <https://wezterm.org/>
 - **Latest release**: `20240203-110809-5046fc22` (2024-02-03)
-- **Last commit**: 2026-09-06
+- **Last commit**: 2026-09-09
 - **License**: NOASSERTION
-- **Stars**: 28824 · **Forks**: 1719 · **Open issues**: 4448 · **Contributors**: 425
+- **Stars**: 28836 · **Forks**: 1720 · **Open issues**: 4449 · **Contributors**: 427
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/wezterm> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:30:30Z._
+_Last regenerated: 2026-09-09T19:48:07Z._
