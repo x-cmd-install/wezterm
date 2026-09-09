@@ -2,28 +2,28 @@ about:
   description: "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust"
   license: NOASSERTION
   homepage: https://wezterm.org/
-  head: d2f3f05
+  head: 9fa147c
   archived: false
   latestVersion: "20240203-110809-5046fc22"
   latestRelease: "20240203-110809-5046fc22"
   latestPrerelease: "20220807-105216-608750d5"
-  collectedAt: 2026-09-09T05:30:06Z
+  collectedAt: 2026-09-09T19:47:36Z
 timeline:
   created: 2018-02-07
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-09
   lastVersion: 2024-02-03
   lastRelease: 2024-02-03
   lastPrerelease: 2022-08-07
 popularity:
-  star: 28824
+  star: 28836
   watcher: 117
-  fork: 1719
+  fork: 1720
   release: 64
-  contributor: 425
-  pullRequest: 2037
-  issue: 4448
+  contributor: 427
+  pullRequest: 2038
+  issue: 4449
 language:
-  Rust: 15544646
+  Rust: 15549873
   Python: 79758
   Shell: 66352
   Nix: 15363
@@ -32,7 +32,7 @@ language:
   WGSL: 3641
   Ruby: 1578
   Makefile: 617
-totalBytes: 15725431
+totalBytes: 15730658
 recent:
   last30d:
     since: 2026-08-10
@@ -84,19 +84,19 @@ recent:
     commit: 0
 total:
   release: 64
-  mergedPR: 806
+  mergedPR: 807
   openPR: 332
-  closedIssue: 2935
+  closedIssue: 2936
   openIssue: 1513
-  commit: 8702
+  commit: 8703
 ---
 path: /home/runner/.x-repo/github.com/wez/wezterm
-collectedAt: 2026-09-09T05:30:24Z
+collectedAt: 2026-09-09T19:47:55Z
 loc:
   Rust:
-    code: 380570
+    code: 380621
     comments: 6322
-    blanks: 17310
+    blanks: 17327
     files: 453
   C:
     code: 131659
@@ -219,9 +219,9 @@ loc:
     blanks: 5464
     files: 49
 total:
-  code: 604081
-  comments: 679416
-  blanks: 63569
+  code: 604132
+  comments: 679467
+  blanks: 63586
   files: 1679
 ---
 date: "2026-09-07"
