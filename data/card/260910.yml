@@ -7,7 +7,7 @@ about:
   latestVersion: "20240203-110809-5046fc22"
   latestRelease: "20240203-110809-5046fc22"
   latestPrerelease: "20220807-105216-608750d5"
-  collectedAt: 2026-09-10T05:38:05Z
+  collectedAt: 2026-09-10T20:41:57Z
 timeline:
   created: 2018-02-07
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2024-02-03
   lastPrerelease: 2022-08-07
 popularity:
-  star: 28839
+  star: 28845
   watcher: 117
-  fork: 1721
+  fork: 1724
   release: 64
   contributor: 427
-  pullRequest: 2038
-  issue: 4450
+  pullRequest: 2039
+  issue: 4452
 language:
   Rust: 15549873
   Python: 79758
@@ -85,13 +85,13 @@ recent:
 total:
   release: 64
   mergedPR: 807
-  openPR: 332
+  openPR: 333
   closedIssue: 2935
-  openIssue: 1515
+  openIssue: 1517
   commit: 8703
 ---
 path: /home/runner/.x-repo/github.com/wez/wezterm
-collectedAt: 2026-09-10T05:38:42Z
+collectedAt: 2026-09-10T20:42:23Z
 loc:
   Rust:
     code: 380621
