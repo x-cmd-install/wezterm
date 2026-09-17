@@ -30,9 +30,9 @@ Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Binary-Artifacts** (2/10) — binaries present in source code
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Binary-Artifacts** (2/10) — binaries present in source code
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,911 · **Forks**: 1,739 · **Open issues**: 4,454 · **Contributors**: 431
+- **Stars**: 28,922 · **Forks**: 1,742 · **Open issues**: 4,455 · **Contributors**: 431
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 813 · **Open PRs**: 333 · **Closed issues**: 2939 · **Open issues**: 1515 · **Commits**: 8711
+- **Releases**: 64 · **Merged PRs**: 813 · **Open PRs**: 335 · **Closed issues**: 2939 · **Open issues**: 1516 · **Commits**: 8711
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -123,4 +123,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:50:06Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:56:36Z._
