@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 42321770,
       "digest": null,
-      "download_count": 442061,
+      "download_count": 442745,
       "created_at": "2024-02-03T18:56:13Z",
       "updated_at": "2024-02-03T18:56:14Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": null,
-      "download_count": 1942,
+      "download_count": 1955,
       "created_at": "2024-02-03T18:56:13Z",
       "updated_at": "2024-02-03T18:56:13Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 41444064,
       "digest": null,
-      "download_count": 9351,
+      "download_count": 9352,
       "created_at": "2024-02-03T18:44:42Z",
       "updated_at": "2024-02-03T18:44:44Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22-src.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": null,
-      "download_count": 1242,
+      "download_count": 1252,
       "created_at": "2024-02-03T18:44:43Z",
       "updated_at": "2024-02-03T18:44:44Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22-src.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 49505472,
       "digest": null,
-      "download_count": 36883,
+      "download_count": 36941,
       "created_at": "2024-02-03T18:44:42Z",
       "updated_at": "2024-02-03T18:44:45Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 120,
       "digest": null,
-      "download_count": 1807,
+      "download_count": 1822,
       "created_at": "2024-02-03T18:44:43Z",
       "updated_at": "2024-02-03T18:44:43Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 169488,
       "digest": null,
-      "download_count": 7997,
+      "download_count": 8012,
       "created_at": "2024-02-03T18:44:42Z",
       "updated_at": "2024-02-03T18:44:42Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 126,
       "digest": null,
-      "download_count": 1234,
+      "download_count": 1244,
       "created_at": "2024-02-03T18:44:43Z",
       "updated_at": "2024-02-03T18:44:43Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 30526688,
       "digest": null,
-      "download_count": 2278,
+      "download_count": 2281,
       "created_at": "2024-02-03T18:36:38Z",
       "updated_at": "2024-02-03T18:36:40Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": null,
-      "download_count": 1270,
+      "download_count": 1280,
       "created_at": "2024-02-03T18:36:38Z",
       "updated_at": "2024-02-03T18:36:39Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.deb.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 30440576,
       "digest": null,
-      "download_count": 389,
+      "download_count": 390,
       "created_at": "2024-02-03T18:36:38Z",
       "updated_at": "2024-02-03T18:36:40Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": null,
-      "download_count": 1092,
+      "download_count": 1102,
       "created_at": "2024-02-03T18:36:38Z",
       "updated_at": "2024-02-03T18:36:38Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.tar.xz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 30639140,
       "digest": null,
-      "download_count": 1097,
+      "download_count": 1098,
       "created_at": "2024-02-03T18:37:14Z",
       "updated_at": "2024-02-03T18:37:15Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": null,
-      "download_count": 1077,
+      "download_count": 1087,
       "created_at": "2024-02-03T18:37:14Z",
       "updated_at": "2024-02-03T18:37:14Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.deb.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 30445432,
       "digest": null,
-      "download_count": 288,
+      "download_count": 289,
       "created_at": "2024-02-03T18:37:14Z",
       "updated_at": "2024-02-03T18:37:15Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": null,
-      "download_count": 1071,
+      "download_count": 1081,
       "created_at": "2024-02-03T18:37:14Z",
       "updated_at": "2024-02-03T18:37:14Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.tar.xz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 28477484,
       "digest": null,
-      "download_count": 2339,
+      "download_count": 2342,
       "created_at": "2024-02-03T20:42:25Z",
       "updated_at": "2024-02-03T20:42:26Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.arm64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 30714456,
       "digest": null,
-      "download_count": 19613,
+      "download_count": 19618,
       "created_at": "2024-02-03T18:48:10Z",
       "updated_at": "2024-02-03T18:48:10Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": null,
-      "download_count": 1190,
+      "download_count": 1200,
       "created_at": "2024-02-03T18:48:10Z",
       "updated_at": "2024-02-03T18:48:10Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb.sha256"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 30433096,
       "digest": null,
-      "download_count": 758,
+      "download_count": 760,
       "created_at": "2024-02-03T18:48:10Z",
       "updated_at": "2024-02-03T18:48:11Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.tar.xz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": null,
-      "download_count": 1092,
+      "download_count": 1104,
       "created_at": "2024-02-03T18:48:10Z",
       "updated_at": "2024-02-03T18:48:10Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.tar.xz.sha256"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 30703868,
       "digest": null,
-      "download_count": 3655,
+      "download_count": 3657,
       "created_at": "2024-02-03T18:44:42Z",
       "updated_at": "2024-02-03T18:44:44Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": null,
-      "download_count": 1122,
+      "download_count": 1133,
       "created_at": "2024-02-03T18:44:44Z",
       "updated_at": "2024-02-03T18:44:44Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb.sha256"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 30515256,
       "digest": null,
-      "download_count": 6276,
+      "download_count": 6279,
       "created_at": "2024-02-03T18:44:42Z",
       "updated_at": "2024-02-03T18:44:44Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 118,
       "digest": null,
-      "download_count": 1140,
+      "download_count": 1150,
       "created_at": "2024-02-03T18:44:44Z",
       "updated_at": "2024-02-03T18:44:44Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz.sha256"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 33303026,
       "digest": null,
-      "download_count": 1902,
+      "download_count": 1904,
       "created_at": "2024-02-03T20:43:43Z",
       "updated_at": "2024-02-03T20:43:44Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 34300188,
       "digest": null,
-      "download_count": 21456,
+      "download_count": 21477,
       "created_at": "2024-02-03T18:35:47Z",
       "updated_at": "2024-02-03T18:35:48Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": null,
-      "download_count": 2620,
+      "download_count": 2630,
       "created_at": "2024-02-03T18:35:47Z",
       "updated_at": "2024-02-03T18:35:47Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 30508792,
       "digest": null,
-      "download_count": 2775,
+      "download_count": 2788,
       "created_at": "2024-02-03T18:35:47Z",
       "updated_at": "2024-02-03T18:35:48Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 118,
       "digest": null,
-      "download_count": 1303,
+      "download_count": 1319,
       "created_at": "2024-02-03T18:35:47Z",
       "updated_at": "2024-02-03T18:35:47Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 34561128,
       "digest": null,
-      "download_count": 1819,
+      "download_count": 1821,
       "created_at": "2024-02-03T18:32:26Z",
       "updated_at": "2024-02-03T18:32:27Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 120,
       "digest": null,
-      "download_count": 1492,
+      "download_count": 1526,
       "created_at": "2024-02-03T18:32:26Z",
       "updated_at": "2024-02-03T18:32:27Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm.sha256"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 33867680,
       "digest": null,
-      "download_count": 1594,
+      "download_count": 1597,
       "created_at": "2024-02-03T18:40:32Z",
       "updated_at": "2024-02-03T18:40:33Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 120,
       "digest": null,
-      "download_count": 1110,
+      "download_count": 1121,
       "created_at": "2024-02-03T18:40:32Z",
       "updated_at": "2024-02-03T18:40:32Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm.sha256"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 34102597,
       "digest": null,
-      "download_count": 418,
+      "download_count": 419,
       "created_at": "2024-02-03T18:43:03Z",
       "updated_at": "2024-02-03T18:43:04Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 121,
       "digest": null,
-      "download_count": 1072,
+      "download_count": 1081,
       "created_at": "2024-02-03T18:43:03Z",
       "updated_at": "2024-02-03T18:43:03Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm.sha256"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 34185663,
       "digest": null,
-      "download_count": 1019,
+      "download_count": 1020,
       "created_at": "2024-02-03T18:36:37Z",
       "updated_at": "2024-02-03T18:36:38Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 121,
       "digest": null,
-      "download_count": 1047,
+      "download_count": 1056,
       "created_at": "2024-02-03T18:36:37Z",
       "updated_at": "2024-02-03T18:36:37Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm.sha256"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 34179903,
       "digest": null,
-      "download_count": 10763,
+      "download_count": 10767,
       "created_at": "2024-02-03T18:40:04Z",
       "updated_at": "2024-02-03T18:40:05Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 121,
       "digest": null,
-      "download_count": 1575,
+      "download_count": 1584,
       "created_at": "2024-02-03T18:40:04Z",
       "updated_at": "2024-02-03T18:40:04Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm.sha256"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 102967427,
       "digest": null,
-      "download_count": 367166,
+      "download_count": 367490,
       "created_at": "2024-02-03T18:59:41Z",
       "updated_at": "2024-02-03T18:59:45Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-macos-20240203-110809-5046fc22.zip"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": null,
-      "download_count": 1568,
+      "download_count": 1578,
       "created_at": "2024-02-03T18:59:41Z",
       "updated_at": "2024-02-03T18:59:41Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-macos-20240203-110809-5046fc22.zip.sha256"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 66162319,
       "digest": null,
-      "download_count": 139007,
+      "download_count": 139128,
       "created_at": "2024-02-03T18:56:13Z",
       "updated_at": "2024-02-03T18:56:15Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": null,
-      "download_count": 2494,
+      "download_count": 2515,
       "created_at": "2024-02-03T18:56:13Z",
       "updated_at": "2024-02-03T18:56:14Z",
       "browser_download_url": "https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip.sha256"
