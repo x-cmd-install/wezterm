@@ -30,9 +30,9 @@ Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Binary-Artifacts** (2/10) — binaries present in source code
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,143 · **Forks**: 1,779 · **Open issues**: 4,468 · **Contributors**: 432
+- **Stars**: 29,152 · **Forks**: 1,780 · **Open issues**: 4,469 · **Contributors**: 432
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 816 · **Open PRs**: 379 · **Closed issues**: 2947 · **Open issues**: 1521 · **Commits**: 8714
+- **Releases**: 64 · **Merged PRs**: 816 · **Open PRs**: 380 · **Closed issues**: 2947 · **Open issues**: 1522 · **Commits**: 8714
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -123,4 +123,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:34:27Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:46:07Z._

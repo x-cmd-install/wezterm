@@ -30,9 +30,9 @@ x install wezterm
 
 评分最低的几项:
 
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Binary-Artifacts** (2/10) — binaries present in source code
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install wezterm
 
 ## 流行度
 
-- **Star**: 29,143 · **Fork**: 1,779 · **开放 issue**: 4,468 · **贡献者**: 432
+- **Star**: 29,152 · **Fork**: 1,780 · **开放 issue**: 4,469 · **贡献者**: 432
 
 ## 累计统计
 
-- **发布数**: 64 · **已合并 PR**: 816 · **开放 PR**: 379 · **已关闭 issue**: 2947 · **开放 issue**: 1521 · **提交数**: 8714
+- **发布数**: 64 · **已合并 PR**: 816 · **开放 PR**: 380 · **已关闭 issue**: 2947 · **开放 issue**: 1522 · **提交数**: 8714
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -123,4 +123,4 @@ wezterm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:34:27Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:46:08Z._
