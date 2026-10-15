@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,223 · **Forks**: 1,793 · **Open issues**: 4,475 · **Contributors**: 432
+- **Stars**: 29,231 · **Forks**: 1,796 · **Open issues**: 4,478 · **Contributors**: 432
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 816 · **Open PRs**: 387 · **Closed issues**: 2949 · **Open issues**: 1526 · **Commits**: 8718
+- **Releases**: 64 · **Merged PRs**: 816 · **Open PRs**: 390 · **Closed issues**: 2949 · **Open issues**: 1529 · **Commits**: 8718
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -123,4 +123,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:34:50Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:12:05Z._
