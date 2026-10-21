@@ -24,19 +24,9 @@ Total: **599,536** lines of code across **790** files in the top 5 languages.
 | CHeader | 18,668 | 8,734 | 4,208 | 140 |
 | AssemblyGAS | 12,415 | 1,838 | 1,738 | 11 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.7 / 10**
-
-Lowest-scoring checks:
-
-- **Binary-Artifacts** (2/10) — binaries present in source code
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
-- **Upstream**: <https://github.com/wez/wezterm>
+- **Upstream**: <https://github.com/wezterm/wezterm>
 - **Homepage**: <https://wezterm.org/>
 - **License**: NOASSERTION
 
@@ -48,7 +38,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,293 · **Forks**: 1,817 · **Open issues**: 4,480 · **Contributors**: 432
+- **Stars**: 29,297 · **Forks**: 1,818 · **Open issues**: 4,480 · **Contributors**: 432
 
 ## Totals (cumulative)
 
@@ -58,61 +48,61 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-21 | 0 | 2 | 48 | 1 | 20 | 6 |
+| last60d | 2026-08-22 | 0 | 22 | 99 | 4 | 45 | 39 |
+| 90d | 2026-07-23 | 0 | 44 | 138 | 14 | 76 | 88 |
+| last180d | 2026-04-24 | 0 | 65 | 198 | 40 | 133 | 152 |
+| 360d | 2025-10-26 | 0 | 93 | 288 | 97 | 269 | 172 |
+| last720d | 2024-10-31 | 0 | 202 | 346 | 307 | 604 | 560 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [WezTerm-20240203-110809-5046fc22-setup.exe](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe) | 40.4 MiB | `other` |
-| [WezTerm-20240203-110809-5046fc22-setup.exe.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe.sha256) | 109 B | `other` |
-| [wezterm-20240203-110809-5046fc22-src.tar.gz](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22-src.tar.gz) | 39.5 MiB | `native/unknown` |
-| [wezterm-20240203-110809-5046fc22-src.tar.gz.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22-src.tar.gz.sha256) | 110 B | `other` |
-| [WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage) | 47.2 MiB | `other` |
-| [WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.sha256) | 120 B | `other` |
-| [WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync) | 165.5 KiB | `other` |
-| [WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync.sha256) | 126 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian10.deb](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.deb) | 29.1 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian10.deb.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.deb.sha256) | 112 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian10.tar.xz](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.tar.xz) | 29.0 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian10.tar.xz.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.tar.xz.sha256) | 115 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian11.deb](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.deb) | 29.2 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian11.deb.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.deb.sha256) | 112 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian11.tar.xz](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.tar.xz) | 29.0 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian11.tar.xz.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.tar.xz.sha256) | 115 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian12.arm64.deb](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.arm64.deb) | 27.2 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian12.deb](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb) | 29.3 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian12.deb.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb.sha256) | 112 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian12.tar.xz](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.tar.xz) | 29.0 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Debian12.tar.xz.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.tar.xz.sha256) | 115 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb) | 29.3 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb.sha256) | 115 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz) | 29.1 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz.sha256) | 118 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb) | 31.8 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb) | 32.7 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb.sha256) | 115 B | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz) | 29.1 MiB | `other` |
-| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz.sha256) | 118 B | `other` |
-| [wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm) | 33.0 MiB | `runtime/rpm/x86_64` |
-| [wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm.sha256) | 120 B | `other` |
-| [wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm) | 32.3 MiB | `runtime/rpm/x86_64` |
-| [wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm.sha256) | 120 B | `other` |
-| [wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm) | 32.5 MiB | `runtime/rpm/x86_64` |
-| [wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm.sha256) | 121 B | `other` |
-| [wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm) | 32.6 MiB | `runtime/rpm/x86_64` |
-| [wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm.sha256) | 121 B | `other` |
-| [wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm) | 32.6 MiB | `runtime/rpm/x86_64` |
-| [wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm.sha256) | 121 B | `other` |
-| [WezTerm-macos-20240203-110809-5046fc22.zip](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-macos-20240203-110809-5046fc22.zip) | 98.2 MiB | `native/darwin/x64` |
-| [WezTerm-macos-20240203-110809-5046fc22.zip.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-macos-20240203-110809-5046fc22.zip.sha256) | 109 B | `native/darwin/x64` |
-| [WezTerm-windows-20240203-110809-5046fc22.zip](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip) | 63.1 MiB | `native/win/x64` |
-| [WezTerm-windows-20240203-110809-5046fc22.zip.sha256](https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip.sha256) | 111 B | `native/win/x64` |
+| [WezTerm-20240203-110809-5046fc22-setup.exe](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe) | 40.4 MiB | `other` |
+| [WezTerm-20240203-110809-5046fc22-setup.exe.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-setup.exe.sha256) | 109 B | `other` |
+| [wezterm-20240203-110809-5046fc22-src.tar.gz](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22-src.tar.gz) | 39.5 MiB | `native/unknown` |
+| [wezterm-20240203-110809-5046fc22-src.tar.gz.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22-src.tar.gz.sha256) | 110 B | `other` |
+| [WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage) | 47.2 MiB | `other` |
+| [WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.sha256) | 120 B | `other` |
+| [WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync) | 165.5 KiB | `other` |
+| [WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync.sha256) | 126 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian10.deb](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.deb) | 29.1 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian10.deb.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.deb.sha256) | 112 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian10.tar.xz](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.tar.xz) | 29.0 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian10.tar.xz.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian10.tar.xz.sha256) | 115 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian11.deb](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.deb) | 29.2 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian11.deb.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.deb.sha256) | 112 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian11.tar.xz](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.tar.xz) | 29.0 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian11.tar.xz.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian11.tar.xz.sha256) | 115 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian12.arm64.deb](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.arm64.deb) | 27.2 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian12.deb](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb) | 29.3 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian12.deb.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.deb.sha256) | 112 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian12.tar.xz](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.tar.xz) | 29.0 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Debian12.tar.xz.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Debian12.tar.xz.sha256) | 115 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb) | 29.3 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb.sha256) | 115 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz) | 29.1 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz.sha256) | 118 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb) | 31.8 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb) | 32.7 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb.sha256) | 115 B | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz) | 29.1 MiB | `other` |
+| [wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz.sha256) | 118 B | `other` |
+| [wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm) | 33.0 MiB | `runtime/rpm/x86_64` |
+| [wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm.sha256) | 120 B | `other` |
+| [wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm) | 32.3 MiB | `runtime/rpm/x86_64` |
+| [wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm.sha256) | 120 B | `other` |
+| [wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm) | 32.5 MiB | `runtime/rpm/x86_64` |
+| [wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm.sha256) | 121 B | `other` |
+| [wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm) | 32.6 MiB | `runtime/rpm/x86_64` |
+| [wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm.sha256) | 121 B | `other` |
+| [wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm) | 32.6 MiB | `runtime/rpm/x86_64` |
+| [wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm.sha256) | 121 B | `other` |
+| [WezTerm-macos-20240203-110809-5046fc22.zip](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-macos-20240203-110809-5046fc22.zip) | 98.2 MiB | `native/darwin/x64` |
+| [WezTerm-macos-20240203-110809-5046fc22.zip.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-macos-20240203-110809-5046fc22.zip.sha256) | 109 B | `native/darwin/x64` |
+| [WezTerm-windows-20240203-110809-5046fc22.zip](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip) | 63.1 MiB | `native/win/x64` |
+| [WezTerm-windows-20240203-110809-5046fc22.zip.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip.sha256) | 111 B | `native/win/x64` |
 
 ## Improve this data
 
@@ -123,4 +113,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:31:45Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T10:15:42Z._
