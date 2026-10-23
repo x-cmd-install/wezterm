@@ -38,7 +38,7 @@ x install wezterm
 
 ## 流行度
 
-- **Star**: 29,305 · **Fork**: 1,818 · **开放 issue**: 4,482 · **贡献者**: 432
+- **Star**: 29,322 · **Fork**: 1,820 · **开放 issue**: 4,482 · **贡献者**: 432
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install wezterm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 48 | 2 | 21 | 6 |
-| last60d | 2026-08-23 | 0 | 22 | 99 | 5 | 42 | 39 |
-| 90d | 2026-07-24 | 0 | 43 | 137 | 14 | 76 | 88 |
-| last180d | 2026-04-25 | 0 | 65 | 198 | 41 | 134 | 152 |
-| 360d | 2025-10-27 | 0 | 93 | 288 | 98 | 270 | 172 |
-| last720d | 2024-11-01 | 0 | 202 | 346 | 307 | 602 | 558 |
+| 30d | 2026-09-23 | 0 | 2 | 45 | 2 | 21 | 6 |
+| last60d | 2026-08-24 | 0 | 20 | 99 | 5 | 42 | 39 |
+| 90d | 2026-07-25 | 0 | 43 | 137 | 14 | 75 | 88 |
+| last180d | 2026-04-26 | 0 | 65 | 198 | 41 | 134 | 152 |
+| 360d | 2025-10-28 | 0 | 93 | 288 | 98 | 270 | 172 |
+| last720d | 2024-11-02 | 0 | 201 | 345 | 306 | 599 | 557 |
 
 ## Release 资产
 
@@ -104,6 +104,18 @@ x install wezterm
 | [WezTerm-windows-20240203-110809-5046fc22.zip](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip) | 63.1 MiB | `native/win/x64` |
 | [WezTerm-windows-20240203-110809-5046fc22.zip.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip.sha256) | 111 B | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/wezterm) 上共有 **111** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**104** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `20240203.110809.5046fc22.r869.g76b606ec5` | ⚠️ outdated |
+| Nix unstable | `0-unstable-2026-10-10` | ⚠️ outdated |
+| Void | `20240203` | ⚠️ outdated |
+| Alpine edge | `20240203.110809` | ⚠️ outdated |
+| openSUSE Tumbleweed | `20240203.110809.5046fc22` | ⚠️ outdated |
+
 ## 改进这些数据
 
 wezterm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `wezterm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -113,4 +125,4 @@ wezterm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:18:57Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:29:23Z._
