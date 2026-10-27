@@ -14,7 +14,7 @@ x install wezterm
 
 ## Code insight
 
-Total: **599,536** lines of code across **790** files in the top 5 languages.
+Total: **599,566** lines of code across **790** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **599,536** lines of code across **790** files in the top 5 languages.
 ## Release
 
 - **Latest**: `20240203-110809-5046fc22` (2024-02-03)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-26
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 29,350 · **Forks**: 1,825 · **Open issues**: 4,485 · **Contributors**: 432
+- **Stars**: 29,366 · **Forks**: 1,827 · **Open issues**: 4,486 · **Contributors**: 433
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 816 · **Open PRs**: 399 · **Closed issues**: 2950 · **Open issues**: 1535 · **Commits**: 8718
+- **Releases**: 64 · **Merged PRs**: 817 · **Open PRs**: 400 · **Closed issues**: 2950 · **Open issues**: 1536 · **Commits**: 8719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 1 | 38 | 2 | 23 | 5 |
-| last60d | 2026-08-27 | 0 | 11 | 98 | 5 | 42 | 22 |
-| 90d | 2026-07-28 | 0 | 42 | 138 | 14 | 72 | 81 |
-| last180d | 2026-04-29 | 0 | 63 | 196 | 41 | 136 | 152 |
-| 360d | 2025-10-31 | 0 | 93 | 289 | 97 | 272 | 172 |
-| last720d | 2024-11-05 | 0 | 201 | 347 | 303 | 600 | 553 |
+| 30d | 2026-09-27 | 0 | 1 | 39 | 2 | 22 | 6 |
+| last60d | 2026-08-28 | 0 | 10 | 98 | 5 | 39 | 23 |
+| 90d | 2026-07-29 | 0 | 42 | 139 | 14 | 71 | 82 |
+| last180d | 2026-04-30 | 0 | 64 | 197 | 41 | 136 | 153 |
+| 360d | 2025-11-01 | 0 | 94 | 290 | 97 | 271 | 173 |
+| last720d | 2024-11-06 | 0 | 202 | 348 | 301 | 600 | 554 |
 
 ## Release assets
 
@@ -125,4 +125,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:28:32Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:40:40Z._
