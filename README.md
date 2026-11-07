@@ -38,22 +38,22 @@ Total: **599,566** lines of code across **790** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,462 · **Forks**: 1,857 · **Open issues**: 4,494 · **Contributors**: 433
+- **Stars**: 29,473 · **Forks**: 1,859 · **Open issues**: 4,494 · **Contributors**: 433
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 817 · **Open PRs**: 412 · **Closed issues**: 2952 · **Open issues**: 1542 · **Commits**: 8719
+- **Releases**: 64 · **Merged PRs**: 817 · **Open PRs**: 410 · **Closed issues**: 2952 · **Open issues**: 1542 · **Commits**: 8719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 39 | 2 | 23 | 5 |
-| last60d | 2026-09-07 | 0 | 3 | 98 | 7 | 39 | 14 |
-| 90d | 2026-08-08 | 0 | 31 | 141 | 13 | 64 | 63 |
-| last180d | 2026-05-10 | 0 | 64 | 205 | 41 | 139 | 153 |
-| 360d | 2025-11-11 | 0 | 93 | 297 | 96 | 269 | 170 |
-| last720d | 2024-11-16 | 0 | 194 | 360 | 297 | 597 | 553 |
+| 30d | 2026-10-08 | 0 | 0 | 38 | 2 | 21 | 5 |
+| last60d | 2026-09-08 | 0 | 3 | 96 | 7 | 39 | 14 |
+| 90d | 2026-08-09 | 0 | 30 | 136 | 13 | 64 | 63 |
+| last180d | 2026-05-11 | 0 | 64 | 203 | 41 | 138 | 153 |
+| 360d | 2025-11-12 | 0 | 92 | 295 | 96 | 267 | 170 |
+| last720d | 2024-11-17 | 0 | 193 | 358 | 296 | 597 | 553 |
 
 ## Release assets
 
@@ -106,7 +106,7 @@ Total: **599,566** lines of code across **790** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **116** distros on [repology.org](https://repology.org/project/wezterm). **2** are ✅ on the latest upstream release, **109** are ⚠️ on an older version.
+Reported by **112** distros on [repology.org](https://repology.org/project/wezterm). **2** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -125,4 +125,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:25:04Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:39:14Z._
