@@ -33,27 +33,27 @@ Total: **599,566** lines of code across **790** files in the top 5 languages.
 ## Release
 
 - **Latest**: `20240203-110809-5046fc22` (2024-02-03)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-08
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 29,473 · **Forks**: 1,859 · **Open issues**: 4,494 · **Contributors**: 433
+- **Stars**: 29,485 · **Forks**: 1,860 · **Open issues**: 4,495 · **Contributors**: 434
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 817 · **Open PRs**: 410 · **Closed issues**: 2952 · **Open issues**: 1542 · **Commits**: 8719
+- **Releases**: 64 · **Merged PRs**: 818 · **Open PRs**: 412 · **Closed issues**: 2952 · **Open issues**: 1543 · **Commits**: 8720
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 38 | 2 | 21 | 5 |
-| last60d | 2026-09-08 | 0 | 3 | 96 | 7 | 39 | 14 |
-| 90d | 2026-08-09 | 0 | 30 | 136 | 13 | 64 | 63 |
-| last180d | 2026-05-11 | 0 | 64 | 203 | 41 | 138 | 153 |
-| 360d | 2025-11-12 | 0 | 92 | 295 | 96 | 267 | 170 |
-| last720d | 2024-11-17 | 0 | 193 | 358 | 296 | 597 | 553 |
+| 30d | 2026-10-09 | 0 | 1 | 39 | 2 | 22 | 2 |
+| last60d | 2026-09-09 | 0 | 4 | 98 | 6 | 39 | 9 |
+| 90d | 2026-08-10 | 0 | 30 | 137 | 12 | 63 | 58 |
+| last180d | 2026-05-12 | 0 | 65 | 204 | 40 | 138 | 154 |
+| 360d | 2025-11-13 | 0 | 93 | 297 | 95 | 268 | 170 |
+| last720d | 2024-11-18 | 0 | 194 | 360 | 295 | 597 | 554 |
 
 ## Release assets
 
@@ -125,4 +125,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:39:14Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:39:24Z._
