@@ -38,22 +38,22 @@ Total: **599,711** lines of code across **790** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,567 · **Forks**: 1,877 · **Open issues**: 4,507 · **Contributors**: 436
+- **Stars**: 29,580 · **Forks**: 1,878 · **Open issues**: 4,508 · **Contributors**: 436
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 822 · **Open PRs**: 423 · **Closed issues**: 2952 · **Open issues**: 1555 · **Commits**: 8726
+- **Releases**: 64 · **Merged PRs**: 822 · **Open PRs**: 425 · **Closed issues**: 2952 · **Open issues**: 1556 · **Commits**: 8726
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 3 | 38 | 2 | 25 | 8 |
-| last60d | 2026-09-17 | 0 | 5 | 90 | 5 | 47 | 14 |
-| 90d | 2026-08-18 | 0 | 28 | 144 | 10 | 69 | 53 |
-| last180d | 2026-05-20 | 0 | 67 | 215 | 40 | 144 | 160 |
-| 360d | 2025-11-21 | 0 | 96 | 306 | 95 | 273 | 175 |
-| last720d | 2024-11-26 | 0 | 196 | 372 | 288 | 597 | 559 |
+| 30d | 2026-10-18 | 0 | 3 | 40 | 2 | 26 | 8 |
+| last60d | 2026-09-18 | 0 | 5 | 89 | 5 | 46 | 14 |
+| 90d | 2026-08-19 | 0 | 28 | 145 | 10 | 70 | 53 |
+| last180d | 2026-05-21 | 0 | 67 | 217 | 39 | 143 | 160 |
+| 360d | 2025-11-22 | 0 | 96 | 308 | 94 | 273 | 175 |
+| last720d | 2024-11-27 | 0 | 195 | 374 | 288 | 598 | 559 |
 
 ## Release assets
 
@@ -104,18 +104,6 @@ Total: **599,711** lines of code across **790** files in the top 5 languages.
 | [WezTerm-windows-20240203-110809-5046fc22.zip](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip) | 63.1 MiB | `native/win/x64` |
 | [WezTerm-windows-20240203-110809-5046fc22.zip.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip.sha256) | 111 B | `native/win/x64` |
 
-## Distribution status
-
-Reported by **111** distros on [repology.org](https://repology.org/project/wezterm). **2** are ✅ on the latest upstream release, **104** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `20240203.110809.5046fc22.r869.g76b606ec5` | ⚠️ outdated |
-| Nix unstable | `0-unstable-2026-11-08` | ⚠️ outdated |
-| Void | `20240203` | ⚠️ outdated |
-| Alpine edge | `20240203.110809` | ⚠️ outdated |
-| openSUSE Tumbleweed | `20240203.110809.5046fc22` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wezterm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -125,4 +113,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:29:57Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:41:46Z._
