@@ -38,22 +38,22 @@ x install wezterm
 
 ## 流行度
 
-- **Star**: 29,580 · **Fork**: 1,878 · **开放 issue**: 4,508 · **贡献者**: 436
+- **Star**: 29,598 · **Fork**: 1,883 · **开放 issue**: 4,511 · **贡献者**: 436
 
 ## 累计统计
 
-- **发布数**: 64 · **已合并 PR**: 822 · **开放 PR**: 425 · **已关闭 issue**: 2952 · **开放 issue**: 1556 · **提交数**: 8726
+- **发布数**: 64 · **已合并 PR**: 822 · **开放 PR**: 429 · **已关闭 issue**: 2953 · **开放 issue**: 1558 · **提交数**: 8726
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 3 | 40 | 2 | 26 | 8 |
-| last60d | 2026-09-18 | 0 | 5 | 89 | 5 | 46 | 14 |
-| 90d | 2026-08-19 | 0 | 28 | 145 | 10 | 70 | 53 |
-| last180d | 2026-05-21 | 0 | 67 | 217 | 39 | 143 | 160 |
-| 360d | 2025-11-22 | 0 | 96 | 308 | 94 | 273 | 175 |
-| last720d | 2024-11-27 | 0 | 195 | 374 | 288 | 598 | 559 |
+| 30d | 2026-10-20 | 0 | 3 | 46 | 3 | 28 | 8 |
+| last60d | 2026-09-20 | 0 | 5 | 94 | 5 | 47 | 14 |
+| 90d | 2026-08-21 | 0 | 25 | 145 | 9 | 72 | 53 |
+| last180d | 2026-05-23 | 0 | 67 | 221 | 39 | 144 | 160 |
+| 360d | 2025-11-24 | 0 | 95 | 311 | 95 | 273 | 175 |
+| last720d | 2024-11-29 | 0 | 195 | 378 | 289 | 597 | 553 |
 
 ## Release 资产
 
@@ -104,6 +104,18 @@ x install wezterm
 | [WezTerm-windows-20240203-110809-5046fc22.zip](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip) | 63.1 MiB | `native/win/x64` |
 | [WezTerm-windows-20240203-110809-5046fc22.zip.sha256](https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip.sha256) | 111 B | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/wezterm) 上共有 **110** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**103** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `20240203.110809.5046fc22.r869.g76b606ec5` | ⚠️ outdated |
+| Nix unstable | `0-unstable-2026-11-08` | ⚠️ outdated |
+| Void | `20240203` | ⚠️ outdated |
+| Alpine edge | `20240203.110809` | ⚠️ outdated |
+| openSUSE Tumbleweed | `20240203.110809.5046fc22` | ⚠️ outdated |
+
 ## 改进这些数据
 
 wezterm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `wezterm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -113,4 +125,4 @@ wezterm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:41:47Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:52:53Z._
