@@ -1,16 +1,13 @@
-- repo: alpine_3_17
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-zsh-completion
-  visiblename: wezterm-zsh-completion
-  version: "20220624.141144"
-  origversion: 20220624.141144-r2
+- repo: slackbuilds
+  srcname: system/wezterm
+  visiblename: system/wezterm
+  version: 20240203_110809_5046fc22
+  origversion: null
   status: outdated
-  summary: Zsh completions for wezterm
   maintainers:
-    - me@panekj.dev
-  licenses:
-    - MIT
+    - julian@dotcore.co.il
+  categories:
+    - system
 - repo: alpine_3_17
   subrepo: community
   srcname: wezterm
@@ -20,6 +17,19 @@
   origversion: 20220624.141144-r2
   status: outdated
   summary: WezTerm multiplexer server
+  maintainers:
+    - me@panekj.dev
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-zsh-completion
+  visiblename: wezterm-zsh-completion
+  version: "20220624.141144"
+  origversion: 20220624.141144-r2
+  status: outdated
+  summary: Zsh completions for wezterm
   maintainers:
     - me@panekj.dev
   licenses:
@@ -388,17 +398,6 @@
     - matthias@ahouansou.cz
   licenses:
     - MIT
-- repo: arch
-  subrepo: extra
-  srcname: wezterm
-  binname: wezterm
-  visiblename: wezterm
-  version: 20240203.110809.5046fc22.r869.g76b606ec5
-  origversion: 20240203.110809.5046fc22.r869.g76b606ec5-4
-  status: outdated
-  summary: A GPU-accelerated cross-platform terminal emulator and multiplexer
-  licenses:
-    - MIT
 - repo: alpine_3_20
   subrepo: community
   srcname: wezterm
@@ -421,354 +420,6 @@
   origversion: 20240203.110809-r4
   status: outdated
   summary: GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-bash-completion
-  visiblename: wezterm-bash-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r4
-  status: outdated
-  summary: Bash completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-common
-  visiblename: wezterm-common
-  version: "20240203.110809"
-  origversion: 20240203.110809-r4
-  status: outdated
-  summary: Common files for WezTerm GUI and multiplexer server
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-fish-completion
-  visiblename: wezterm-fish-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r4
-  status: outdated
-  summary: Fish completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-fonts
-  visiblename: wezterm-fonts
-  version: "20240203.110809"
-  origversion: 20240203.110809-r4
-  status: outdated
-  summary: Meta package for fonts bundled in Wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-mux-server
-  visiblename: wezterm-mux-server
-  version: "20240203.110809"
-  origversion: 20240203.110809-r4
-  status: outdated
-  summary: WezTerm multiplexer server
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-zsh-completion
-  visiblename: wezterm-zsh-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r4
-  status: outdated
-  summary: Zsh completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm
-  visiblename: wezterm
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: aur
-  srcname: wezterm-git
-  binname: wezterm-git
-  visiblename: wezterm-git
-  version: 20240203.110809.r898.gfe3006a
-  origversion: 20240203.110809.r898.gfe3006a-1
-  status: rolling
-  summary: A GPU-accelerated cross-platform terminal emulator and multiplexer
-  maintainers:
-    - xiota@aur
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-bash-completion
-  visiblename: wezterm-bash-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Bash completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-common
-  visiblename: wezterm-common
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Common files for WezTerm GUI and multiplexer server
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-fish-completion
-  visiblename: wezterm-fish-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Fish completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-fonts
-  visiblename: wezterm-fonts
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Meta package for fonts bundled in Wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-mux-server
-  visiblename: wezterm-mux-server
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: WezTerm multiplexer server
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-zsh-completion
-  visiblename: wezterm-zsh-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Zsh completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm
-  visiblename: wezterm
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-bash-completion
-  visiblename: wezterm-bash-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Bash completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-common
-  visiblename: wezterm-common
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Common files for WezTerm GUI and multiplexer server
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: artix
-  subrepo: galaxy
-  srcname: wezterm
-  binname: wezterm
-  visiblename: wezterm
-  version: 20240922.151228.2b76c63b
-  origversion: 20240922.151228.2b76c63b-1
-  status: outdated
-  summary: A terminal emulator implemented in Rust, using OpenGL ES 2 for rendering.
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-fish-completion
-  visiblename: wezterm-fish-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Fish completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-fonts
-  visiblename: wezterm-fonts
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Meta package for fonts bundled in Wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-mux-server
-  visiblename: wezterm-mux-server
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: WezTerm multiplexer server
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-zsh-completion
-  visiblename: wezterm-zsh-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r5
-  status: outdated
-  summary: Zsh completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm
-  visiblename: wezterm
-  version: "20240203.110809"
-  origversion: 20240203.110809-r6
-  status: outdated
-  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-bash-completion
-  visiblename: wezterm-bash-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r6
-  status: outdated
-  summary: Bash completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-common
-  visiblename: wezterm-common
-  version: "20240203.110809"
-  origversion: 20240203.110809-r6
-  status: outdated
-  summary: Common files for WezTerm GUI and multiplexer server
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-fish-completion
-  visiblename: wezterm-fish-completion
-  version: "20240203.110809"
-  origversion: 20240203.110809-r6
-  status: outdated
-  summary: Fish completions for wezterm
-  maintainers:
-    - matthias@ahouansou.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: wezterm
-  binname: wezterm-fonts
-  visiblename: wezterm-fonts
-  version: "20240203.110809"
-  origversion: 20240203.110809-r6
-  status: outdated
-  summary: Meta package for fonts bundled in Wezterm
   maintainers:
     - matthias@ahouansou.cz
   licenses:
@@ -780,6 +431,345 @@
   origversion: null
   status: outdated
   summary: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- repo: alpine_3_21
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-bash-completion
+  visiblename: wezterm-bash-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r4
+  status: outdated
+  summary: Bash completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-common
+  visiblename: wezterm-common
+  version: "20240203.110809"
+  origversion: 20240203.110809-r4
+  status: outdated
+  summary: Common files for WezTerm GUI and multiplexer server
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-fish-completion
+  visiblename: wezterm-fish-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r4
+  status: outdated
+  summary: Fish completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-fonts
+  visiblename: wezterm-fonts
+  version: "20240203.110809"
+  origversion: 20240203.110809-r4
+  status: outdated
+  summary: Meta package for fonts bundled in Wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-mux-server
+  visiblename: wezterm-mux-server
+  version: "20240203.110809"
+  origversion: 20240203.110809-r4
+  status: outdated
+  summary: WezTerm multiplexer server
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-zsh-completion
+  visiblename: wezterm-zsh-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r4
+  status: outdated
+  summary: Zsh completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm
+  visiblename: wezterm
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-bash-completion
+  visiblename: wezterm-bash-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Bash completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-common
+  visiblename: wezterm-common
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Common files for WezTerm GUI and multiplexer server
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: wezterm.install
+  visiblename: Wez's Terminal (Install)
+  version: 20240203.110809.0
+  origversion: null
+  status: outdated
+  summary: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- repo: alpine_3_22
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-fish-completion
+  visiblename: wezterm-fish-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Fish completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-fonts
+  visiblename: wezterm-fonts
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Meta package for fonts bundled in Wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-mux-server
+  visiblename: wezterm-mux-server
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: WezTerm multiplexer server
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-zsh-completion
+  visiblename: wezterm-zsh-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Zsh completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm
+  visiblename: wezterm
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-bash-completion
+  visiblename: wezterm-bash-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Bash completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-common
+  visiblename: wezterm-common
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Common files for WezTerm GUI and multiplexer server
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-fish-completion
+  visiblename: wezterm-fish-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Fish completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-fonts
+  visiblename: wezterm-fonts
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Meta package for fonts bundled in Wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: wezterm.portable
+  visiblename: Wez's Terminal (Portable)
+  version: 20240203.110809.0
+  origversion: null
+  status: outdated
+  summary: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- repo: alpine_3_23
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-mux-server
+  visiblename: wezterm-mux-server
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: WezTerm multiplexer server
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-zsh-completion
+  visiblename: wezterm-zsh-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r5
+  status: outdated
+  summary: Zsh completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm
+  visiblename: wezterm
+  version: "20240203.110809"
+  origversion: 20240203.110809-r6
+  status: outdated
+  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-bash-completion
+  visiblename: wezterm-bash-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r6
+  status: outdated
+  summary: Bash completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-common
+  visiblename: wezterm-common
+  version: "20240203.110809"
+  origversion: 20240203.110809-r6
+  status: outdated
+  summary: Common files for WezTerm GUI and multiplexer server
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-fish-completion
+  visiblename: wezterm-fish-completion
+  version: "20240203.110809"
+  origversion: 20240203.110809-r6
+  status: outdated
+  summary: Fish completions for wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: wezterm
+  binname: wezterm-fonts
+  visiblename: wezterm-fonts
+  version: "20240203.110809"
+  origversion: 20240203.110809-r6
+  status: outdated
+  summary: Meta package for fonts bundled in Wezterm
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: wezterm
@@ -804,6 +794,15 @@
   summary: Zsh completions for wezterm
   maintainers:
     - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: chromebrew
+  srcname: wezterm
+  visiblename: wezterm
+  version: 20240203-110809-5046fc22
+  origversion: null
+  status: outdated
+  summary: WezTerm is a powerful cross-platform terminal emulator and multiplexer
   licenses:
     - MIT
 - repo: alpine_edge
@@ -909,27 +908,38 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
-- repo: chocolatey
-  binname: wezterm.install
-  visiblename: Wez's Terminal (Install)
-  version: 20240203.110809.0
-  origversion: null
-  status: outdated
-  summary: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- repo: chocolatey
-  binname: wezterm.portable
-  visiblename: Wez's Terminal (Portable)
-  version: 20240203.110809.0
-  origversion: null
-  status: outdated
-  summary: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- repo: chromebrew
+- repo: arch
+  subrepo: extra
   srcname: wezterm
+  binname: wezterm
   visiblename: wezterm
-  version: 20240203-110809-5046fc22
-  origversion: null
+  version: 20240203.110809.5046fc22.r869.g76b606ec5
+  origversion: 20240203.110809.5046fc22.r869.g76b606ec5-4
   status: outdated
-  summary: WezTerm is a powerful cross-platform terminal emulator and multiplexer
+  summary: A GPU-accelerated cross-platform terminal emulator and multiplexer
+  licenses:
+    - MIT
+- repo: aur
+  srcname: wezterm-git
+  binname: wezterm-git
+  visiblename: wezterm-git
+  version: 20240203.110809.r898.gfe3006a
+  origversion: 20240203.110809.r898.gfe3006a-1
+  status: rolling
+  summary: A GPU-accelerated cross-platform terminal emulator and multiplexer
+  maintainers:
+    - xiota@aur
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: galaxy
+  srcname: wezterm
+  binname: wezterm
+  visiblename: wezterm
+  version: 20240922.151228.2b76c63b
+  origversion: 20240922.151228.2b76c63b-1
+  status: outdated
+  summary: A terminal emulator implemented in Rust, using OpenGL ES 2 for rendering.
   licenses:
     - MIT
 - repo: freebsd
@@ -1047,6 +1057,30 @@
     - ZLIB
   categories:
     - x11-terms
+- repo: nix_stable_24_05
+  srcname: wezterm
+  visiblename: wezterm
+  version: 20240203-110809-5046fc22
+  origversion: null
+  status: outdated
+  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - miguel.madrid.mencia@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: wezterm
+  visiblename: wezterm
+  version: 0-unstable-2025-01-03
+  origversion: null
+  status: outdated
+  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - miguel.madrid.mencia@gmail.com
+  licenses:
+    - MIT
 - repo: liguros_develop
   srcname: x11-terms/wezterm
   visiblename: x11-terms/wezterm
@@ -1176,30 +1210,6 @@
   summary: A GPU-accelerated cross-platform terminal emulator and multiplexer (mingw-w64)
   licenses:
     - spdx:MIT
-- repo: nix_stable_24_05
-  srcname: wezterm
-  visiblename: wezterm
-  version: 20240203-110809-5046fc22
-  origversion: null
-  status: outdated
-  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - miguel.madrid.mencia@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: wezterm
-  visiblename: wezterm
-  version: 0-unstable-2025-01-03
-  origversion: null
-  status: outdated
-  summary: GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - miguel.madrid.mencia@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: wezterm
   visiblename: wezterm
@@ -1239,7 +1249,7 @@
 - repo: nix_unstable
   srcname: wezterm
   visiblename: wezterm
-  version: 0-unstable-2026-11-08
+  version: 0-unstable-2026-11-20
   origversion: null
   status: outdated
   summary: GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -1344,16 +1354,6 @@
   status: outdated
   licenses:
     - Apache-2.0
-- repo: slackbuilds
-  srcname: system/wezterm
-  visiblename: system/wezterm
-  version: 20240203_110809_5046fc22
-  origversion: null
-  status: outdated
-  maintainers:
-    - julian@dotcore.co.il
-  categories:
-    - system
 - repo: t2
   srcname: wezterm
   visiblename: wezterm
