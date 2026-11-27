@@ -14,11 +14,11 @@ x install wezterm
 
 ## Code insight
 
-Total: **599,817** lines of code across **790** files in the top 5 languages.
+Total: **599,821** lines of code across **790** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 381,033 | 6,345 | 17,371 | 453 |
+| Rust | 381,037 | 6,346 | 17,373 | 453 |
 | C | 131,659 | 26,601 | 26,933 | 183 |
 | Json | 41,119 | 0 | 0 | 3 |
 | CHeader | 18,668 | 8,734 | 4,208 | 140 |
@@ -33,27 +33,27 @@ Total: **599,817** lines of code across **790** files in the top 5 languages.
 ## Release
 
 - **Latest**: `20240203-110809-5046fc22` (2024-02-03)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 44
 
 ## Popularity
 
-- **Stars**: 29,703 · **Forks**: 1,909 · **Open issues**: 4,520 · **Contributors**: 447
+- **Stars**: 29,712 · **Forks**: 1,916 · **Open issues**: 4,522 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 846 · **Open PRs**: 424 · **Closed issues**: 2961 · **Open issues**: 1559 · **Commits**: 8751
+- **Releases**: 64 · **Merged PRs**: 847 · **Open PRs**: 427 · **Closed issues**: 2963 · **Open issues**: 1559 · **Commits**: 8752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 13 | 53 | 7 | 28 | 32 |
-| last60d | 2026-09-27 | 0 | 16 | 87 | 9 | 50 | 38 |
-| 90d | 2026-08-28 | 0 | 25 | 145 | 13 | 66 | 56 |
-| last180d | 2026-05-30 | 0 | 79 | 226 | 42 | 148 | 185 |
-| 360d | 2025-12-01 | 0 | 115 | 311 | 98 | 271 | 199 |
-| last720d | 2024-12-06 | 0 | 217 | 374 | 293 | 588 | 571 |
+| 30d | 2026-10-28 | 0 | 14 | 52 | 8 | 28 | 33 |
+| last60d | 2026-09-28 | 0 | 17 | 89 | 10 | 51 | 39 |
+| 90d | 2026-08-29 | 0 | 24 | 148 | 14 | 67 | 57 |
+| last180d | 2026-05-31 | 0 | 80 | 229 | 44 | 148 | 186 |
+| 360d | 2025-12-02 | 0 | 116 | 314 | 100 | 271 | 200 |
+| last720d | 2024-12-07 | 0 | 218 | 377 | 295 | 588 | 572 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:29:15Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:50:27Z._
