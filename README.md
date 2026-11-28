@@ -38,22 +38,22 @@ Total: **599,821** lines of code across **790** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,712 · **Forks**: 1,916 · **Open issues**: 4,522 · **Contributors**: 447
+- **Stars**: 29,721 · **Forks**: 1,919 · **Open issues**: 4,523 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 847 · **Open PRs**: 427 · **Closed issues**: 2963 · **Open issues**: 1559 · **Commits**: 8752
+- **Releases**: 64 · **Merged PRs**: 847 · **Open PRs**: 443 · **Closed issues**: 2963 · **Open issues**: 1560 · **Commits**: 8752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 14 | 52 | 8 | 28 | 33 |
-| last60d | 2026-09-28 | 0 | 17 | 89 | 10 | 51 | 39 |
-| 90d | 2026-08-29 | 0 | 24 | 148 | 14 | 67 | 57 |
-| last180d | 2026-05-31 | 0 | 80 | 229 | 44 | 148 | 186 |
-| 360d | 2025-12-02 | 0 | 116 | 314 | 100 | 271 | 200 |
-| last720d | 2024-12-07 | 0 | 218 | 377 | 295 | 588 | 572 |
+| 30d | 2026-10-29 | 0 | 14 | 67 | 8 | 29 | 33 |
+| last60d | 2026-09-29 | 0 | 17 | 103 | 9 | 51 | 39 |
+| 90d | 2026-08-30 | 0 | 24 | 161 | 14 | 68 | 57 |
+| last180d | 2026-06-01 | 0 | 80 | 242 | 43 | 148 | 186 |
+| 360d | 2025-12-03 | 0 | 116 | 329 | 100 | 272 | 200 |
+| last720d | 2024-12-08 | 0 | 218 | 392 | 291 | 589 | 572 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for wezterm lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:50:27Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:15:46Z._
